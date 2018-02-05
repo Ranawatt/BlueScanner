@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+
+
+    <item android:id="@+id/scan_05" android:title="Scan for 5 sec"/>
+    <item android:id="@+id/scan_10" android:title="Scan for 10 sec"/>
+    <item android:id="@+id/scan_15" android:title="Scan for 15 sec"/>
+    <item android:id="@+id/scan_20" android:title="Scan for 20 sec"/>
+    <item android:id="@+id/stop_scan" android:title="@string/stop_scan"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+</menu>
