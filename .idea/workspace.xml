@@ -6,9 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e111abf5-2681-4bfd-b0e9-c772a2ec39ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BlueScanner-master.zip" afterDir="false" />
-    </list>
+    <list default="true" id="e111abf5-2681-4bfd-b0e9-c772a2ec39ef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Suggestions" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -145,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594344660336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated Blue Scanner">
+      <created>1594345869814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594345869814</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,26 +159,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated Blue Scanner" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="81" y="33" key="#PSD" timestamp="1594316079280">
+    <state x="81" y="33" key="#PSD" timestamp="1594345952701">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="81" y="33" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1594316079280" />
+    <state x="81" y="33" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1594345952701" />
     <state x="357" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594345362394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="357" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1594345362394" />
-    <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1594344659032">
+    <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1594345868743">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="227" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1594344659032" />
+    <state x="227" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1594345868743" />
     <state x="413" y="27" key="FileChooserDialogImpl" timestamp="1594345268129">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="27" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594345268129" />
-    <state x="175" y="33" key="Vcs.Push.Dialog.v2" timestamp="1594345018994">
+    <state x="175" y="33" key="Vcs.Push.Dialog.v2" timestamp="1594345899533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="33" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594345018994" />
+    <state x="175" y="33" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594345899533" />
     <state x="428" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594345278729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
