@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.bluescanner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:5:5-7:35
+12        android:name="android.hardware.bluetooth_le"
+12-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:6:9-53
+13        android:required="true" />
+13-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:7:9-32
+14
+15    <uses-permission android:name="android.permission.BLUETOOTH" />
+15-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:9:5-68
+15-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:9:22-65
+16    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+16-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:10:5-74
+16-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:10:22-71
+17
+18    <application
+18-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:13:5-34:19
+19        android:allowBackup="true"
+19-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:14:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] C:\Users\sugandh\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:icon="@mipmap/ic_launcher"
+23-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:15:9-43
+24        android:label="@string/app_name"
+24-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:16:9-41
+25        android:supportsRtl="true"
+25-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:17:9-35
+26        android:theme="@style/AppTheme" >
+26-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:18:9-40
+27        <activity
+27-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:19:9-26:20
+28            android:name="com.example.android.bluescanner.MainActivity"
+28-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:20:13-41
+29            android:label="@string/app_name" >
+29-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:21:13-45
+30            <intent-filter>
+30-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:22:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:23:17-69
+31-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:24:17-77
+33-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.example.android.bluescanner.DeviceControllerActivity" />
+36-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:27:9-62
+36-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:27:19-59
+37
+38        <service
+38-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:29:9-31:38
+39            android:name="com.example.android.bluescanner.BluetoothLeService"
+39-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:30:13-47
+40            android:enabled="true" />
+40-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:31:13-35
+41
+42        <activity android:name="com.example.android.bluescanner.Main2Activity" />
+42-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:33:9-60
+42-->D:\androidprojects\BlueScanner\app\src\main\AndroidManifest.xml:33:19-48
+43    </application>
+44
+45</manifest>

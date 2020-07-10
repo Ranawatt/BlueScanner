@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_device_controller.xml.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\layout\\activity_device_controller.xml"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dubai.jpg.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\drawable\\dubai.jpg"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indetermnate_progress.xml.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\layout\\actionbar_indetermnate_progress.xml"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\menu_gatt_services.xml.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\androidprojects\\BlueScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "D:\\androidprojects\\BlueScanner\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    }
+]

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--    <item name="menu_connect" type="id">menuconnect</item>-->
-<!--    <item name="menu_disconnect" type="id">menudisconnect</item>-->
-<!--    <item name="menu_stop" type="id">Stop</item>-->
-<!--    <item name="menu_scan" type="id">Scan</item>-->
-<!--    <item name="menu_refresh" type="id">Refresh</item>-->
-<!--    <item name="scan_20" type="id">Scan for 20 sec</item>-->
-<!--    <item name="scan_15" type="id">scan for 15 sec</item>-->
-<!--    <item name="scan_10" type="id">scan for 10 sec</item>-->
-<!--    <item name="scan_05" type="id">scan for 5 sec</item>-->
-<!--    <item name="stop_scan" type="id">stop</item>-->
+    <item name="menu_connect" type="id">menuconnect</item>
+    <item name="menu_disconnect" type="id">menudisconnect</item>
+    <item name="menu_stop" type="id">Stop</item>
+    <item name="menu_scan" type="id">Scan</item>
+    <item name="menu_refresh" type="id">Refresh</item>
+    <item name="scan_20" type="id">Scan for 20 sec</item>
+    <item name="scan_15" type="id">scan for 15 sec</item>
+    <item name="scan_10" type="id">scan for 10 sec</item>
+    <item name="scan_05" type="id">scan for 5 sec</item>
+    <item name="stop_scan" type="id">stop</item>
 </resources>
