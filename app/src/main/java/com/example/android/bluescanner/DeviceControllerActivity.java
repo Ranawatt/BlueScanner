@@ -9,10 +9,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.ServiceConnection;
-import android.os.Build;
 import android.os.Bundle;
 import android.os.IBinder;
-import android.support.annotation.RequiresApi;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -73,7 +71,7 @@ public class DeviceControllerActivity extends Activity {
     };
 
     private final BroadcastReceiver mGattUpdateReceiver = new BroadcastReceiver() {
-        @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP_MR1)
+
         @Override
         public void onReceive(Context context, Intent intent) {
             final String action = intent.getAction();
@@ -103,7 +101,7 @@ public class DeviceControllerActivity extends Activity {
     };
 
     private final ExpandableListView.OnChildClickListener servicesListClickListner = new ExpandableListView.OnChildClickListener() {
-        @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP_MR1)
+
         @Override
         public boolean onChildClick(ExpandableListView parent, View v,
                                     int groupPosition, int childPosition, long id) {
@@ -229,7 +227,7 @@ public class DeviceControllerActivity extends Activity {
         }
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP_MR1)
+
     private void displayGattServices(List<BluetoothGattService> gattServices) {
         if (gattServices == null)
             return;
