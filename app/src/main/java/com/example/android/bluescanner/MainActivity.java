@@ -12,7 +12,6 @@ import android.content.pm.PackageManager;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.annotation.RequiresApi;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -43,7 +42,7 @@ public class MainActivity extends ListActivity {
     private static final int SCAN_MODE_BALANCED_INTERVAL_MS = 5000;
     private static final int SCAN_MODE_LOW_LATENCY_WINDOW_MS = 5000;
     private static final int SCAN_MODE_LOW_LATENCY_INTERVAL_MS = 5000;
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP_MR1)
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -86,7 +85,6 @@ public class MainActivity extends ListActivity {
         return true;
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
    @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
@@ -133,7 +131,7 @@ public class MainActivity extends ListActivity {
         return true;
     }*/
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
+
     @Override
     protected void onResume() {
         super.onResume();
@@ -162,7 +160,7 @@ public class MainActivity extends ListActivity {
         super.onActivityResult(requestCode, resultCode, data);
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
+
     @Override
     protected void onPause() {
         super.onPause();
@@ -170,7 +168,6 @@ public class MainActivity extends ListActivity {
         mLeDeviceListAdapter.clear();
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onListItemClick(ListView l, View v, final int position, long id) {
         final BluetoothDevice device = mLeDeviceListAdapter.getDevice(position);
@@ -194,7 +191,6 @@ public class MainActivity extends ListActivity {
         startActivity(intent);
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     private void scanLeDevice(final boolean enable) {
         if (enable) {
             mHandler.postDelayed(new Runnable() {
