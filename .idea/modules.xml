@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BlueScanner.iml" filepath="$PROJECT_DIR$/BlueScanner.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BlueScanner-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BlueScanner-app.iml" group="BlueScanner/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidprojects-BlueScanner.iml" filepath="$PROJECT_DIR$/.idea/modules/androidprojects-BlueScanner.iml" group="BlueScanner" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BlueScanner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BlueScanner.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidprojects.BlueScanner.iml" filepath="$PROJECT_DIR$/.idea/modules/androidprojects.BlueScanner.iml" />
     </modules>
   </component>
 </project>
