@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BlueScanner.iml" filepath="$PROJECT_DIR$/BlueScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlueScanner-master.iml" filepath="$PROJECT_DIR$/.idea/modules/BlueScanner-master.iml" group="BlueScanner-master" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BlueScanner-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BlueScanner-master-app.iml" group="BlueScanner-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BlueScanner-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BlueScanner-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidprojects.BlueScanner-master.iml" filepath="$PROJECT_DIR$/.idea/modules/androidprojects.BlueScanner-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
