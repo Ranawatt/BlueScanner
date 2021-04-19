@@ -19,6 +19,8 @@ import android.widget.ExpandableListView;
 import android.widget.SimpleExpandableListAdapter;
 import android.widget.TextView;
 
+import com.example.android.bluescanner.BluetoothLeService;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
